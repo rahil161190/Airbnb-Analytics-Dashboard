@@ -1,7 +1,7 @@
 # Airbnb Listing Optimization: A Data-Driven Analysis
 
-### Interactive Dashboard: [https://your-username.github.io/airbnb-analytics-dashboard/](https://your-username.github.io/airbnb-analytics-dashboard/)
-### Tableau Public Version: [Link to your Tableau Public Dashboard]
+### Interactive Dashboard: [https://rahil161190.github.io/Airbnb-Analytics-Dashboard/index.html]
+### Tableau Public Version: [https://public.tableau.com/views/AirbnbStudy_17453994260850/ofRedundantlistings?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 
 ---
 
