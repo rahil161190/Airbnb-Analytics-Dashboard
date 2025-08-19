@@ -42,9 +42,3 @@ Instead of a static report, I developed a fully interactive web application to p
 * **AI-Powered Action Plan:** The key innovation is the **"AI Photo Planner."** By integrating the **Google Gemini API**, this feature provides hosts with a custom, actionable shot list based on their property's unique features. This bridges the gap between insight and action.
 
 ---
-
-## 5. Technologies Used
-
-* **Data Visualization & Frontend:** HTML, Tailwind CSS, Chart.js
-* **AI Integration:** Google Gemini API
-* **Hosting:** GitHub Pages
